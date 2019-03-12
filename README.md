@@ -2,26 +2,32 @@
 
 Sugestões de Projetos para Trabalhos de Conclusão de Curso em Fabricação Integrada por Computador ou CIM.
 
-O Laboratório CIM da PUCRS, fundado em 1997, onde foram desenvolvidas as ferramentas Robsoft Simulator e ACLC, 
+O Laboratório CIM da PUCRS, fundado em 1997, onde foram desenvolvidas as
+ferramentas [Robsoft Simulator](https://github.com/cimtools/robosoft) e
+[ACLC](https://github.com/cimtools/aclc), est abrindo suas portas para a comunidade
+acadêmica da PUCRS para a realizaço de trabalhos de conclusão de cursos.
 
+Abaixo um vídeo apresentando o funcionamento do Laboratório CIM:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iYh5go_5Sc8/0.jpg)](https://www.youtube.com/watch?v=iYh5go_5Sc8)
 
 ## Software (CC, EC)
 
 Desenvolvimento de software para programação, controle e simulação dos
 robôs industriais. O software deve possuir compatibilidade para programação
 direta e indireta, sendo necessário, respectivamente, um terminal embutido
-e um editor de textos com highlight adequado para linguagem ACL utilizada
-nos robôs desenvolvidos pela ESHED Robotec, assim como informações de erros
-de sintaxe. A comunicação com o controlador do robô é dada pela porta serial
-(USB por adaptador ou RS232). 
+e um editor de textos com *syntax highlighting* adequado para linguagem ACL utilizada
+nos robôs desenvolvidos pela [Intelitek (antiga ESHED Robotec)](https://www.intelitek.com/),
+assim como informações de erros de sintaxe. A comunicação com o controlador do
+robô é dada pela porta serial (USB por adaptador ou RS232). 
 
 Também deve permitir comunicação entre estações, apresentando configurações
 para identificação de cada equipamento na rede e troca de informações.
-Para auxilio, o código fonte do software utilizado atualmente, o Robosoft,
-está disponível no GitHub, tendo sido desenvolvido em Pascal por meio do
-programa Delphi, assim como o interpretador ACL utilizado pelo mesmo,
-desenvolvido em Perl. O software deve ser desenvolvido em open source,
-permitindo futuras atualizações, além de multiplataforma.
+Para auxilio, o código fonte do software utilizado atualmente, o [Robsoft](https://github.com/cimtools/robosoft),
+está disponível no GitHub, tendo sido desenvolvido em *Object Pascal* por meio do
+programa Delphi, assim como o interpretador [ACL](https://github.com/cimtools/aclc) utilizado pelo mesmo,
+desenvolvido em Perl. O software deve ser desenvolvido sub uma licença *open source*,
+permitindo futuras atualizações, além de ser multiplataforma.
 
 ## Digital Twin Brother (CC, EC, ECA)
 
@@ -48,4 +54,4 @@ que converta a conexão serial para ethernet e vice-versa.
 Desenvolvimento de um sistema de visão capaz de identificar peças na esteira,
 classificar e realizar medições por meio de uma câmera. O sistema deve ser
 capaz de gerar relatórios e se conectar ao software utilizado no laboratório.
-O sistema deve ser desenvolvido em open source.
+O sistema deve ser desenvolvido sob uma licença *open source*.
