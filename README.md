@@ -3,7 +3,7 @@
 Sugestões de Projetos para Trabalhos de Conclusão de Curso em Fabricação Integrada por Computador ou CIM.
 
 O Laboratório CIM da PUCRS, fundado em 1997, onde foram desenvolvidas as
-ferramentas [Robsoft Simulator](https://github.com/cimtools/robosoft) e
+ferramentas [Robosoft Simulator](https://github.com/cimtools/robosoft) e
 [ACLC](https://github.com/cimtools/aclc), está abrindo suas portas para a comunidade
 acadêmica da PUCRS para a realizaço de trabalhos de conclusão de cursos.
 
