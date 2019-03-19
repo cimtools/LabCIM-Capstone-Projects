@@ -60,7 +60,7 @@ O sistema deve ser desenvolvido sob uma licença *open source*.
 
 Desenvolvimento de um sistema de verificação de parâmentros programáveis,
 como presença de esferas em um jogo montado na estação de montagem, por exemplo.
-Usando visão computacional com a biblioteca OpenCV.
+Usando visão computacional com a biblioteca [OpenCV](https://opencv.org/).
 
 ## Robô com 6 graus de liberdade utilizando motores de passo (EM, ECA, EC)
 
