@@ -55,3 +55,16 @@ Desenvolvimento de um sistema de visão capaz de identificar peças na esteira,
 classificar e realizar medições por meio de uma câmera. O sistema deve ser
 capaz de gerar relatórios e se conectar ao software utilizado no laboratório.
 O sistema deve ser desenvolvido sob uma licença *open source*.
+
+## Estação de controle de qualidade por visão computacional (CC, EC, ECA)
+
+Desenvolvimento de um sistema de verificação de parâmentros programáveis,
+como presença de esferas em um jogo montado na estação de montagem, por exemplo.
+Usando visão computacional com a biblioteca OpenCV.
+
+## Robô com 6 graus de liberdade utilizando motores de passo (EM, ECA, EC)
+
+Construção de um novo robô com sistema de tranmissão de movimento 
+utilizando engrenagens e transmissão *harmonic drive* utilizando 
+controle em malha aberta com motores de passo.
+
