@@ -29,7 +29,7 @@ programa Delphi, assim como o interpretador [ACL](https://github.com/cimtools/ac
 desenvolvido em Perl. O software deve ser desenvolvido sub uma licença *open source*,
 permitindo futuras atualizações, além de ser multiplataforma.
 
-## Digital Twin Brother (CC, EC, ECA)
+## Digital Twin (CC, EC, ECA)
 
 Através da leitura de encoders presentes em cada motor de cada robô,
 é possível identificar a posição na qual o robô se encontra. Por meio
